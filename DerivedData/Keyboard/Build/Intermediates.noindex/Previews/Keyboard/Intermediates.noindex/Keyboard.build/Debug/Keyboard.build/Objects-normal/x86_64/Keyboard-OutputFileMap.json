@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/Keyboard-master.dia",
+    "emit-module-dependencies" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/Keyboard-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/Keyboard-master-emit-module.dia",
+    "swift-dependencies" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/Keyboard-master.swiftdeps"
+  },
+  "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/macos/Desktop/Keyboard/Keyboard/ContentView.swift" : {
+    "const-values" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/macos/Desktop/Keyboard/Keyboard/KeyboardApp.swift" : {
+    "const-values" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/KeyboardApp.swiftconstvalues",
+    "dependencies" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/KeyboardApp.d",
+    "diagnostics" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/KeyboardApp.dia",
+    "index-unit-output-path" : "/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/KeyboardApp.o",
+    "llvm-bc" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/KeyboardApp.bc",
+    "object" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/KeyboardApp.o",
+    "swift-dependencies" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/KeyboardApp.swiftdeps",
+    "swiftmodule" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Build/Intermediates.noindex/Previews/Keyboard/Intermediates.noindex/Keyboard.build/Debug/Keyboard.build/Objects-normal/x86_64/KeyboardApp~partial.swiftmodule"
+  }
+}

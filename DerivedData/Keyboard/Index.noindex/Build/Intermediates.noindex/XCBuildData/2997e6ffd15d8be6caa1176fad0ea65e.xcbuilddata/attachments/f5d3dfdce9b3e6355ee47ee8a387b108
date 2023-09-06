@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Index.noindex/Build/Intermediates.noindex/Keyboard.build/Debug-iphoneos/Keyboard.build/Objects-normal/arm64/Keyboard-master.d",
+    "diagnostics" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Index.noindex/Build/Intermediates.noindex/Keyboard.build/Debug-iphoneos/Keyboard.build/Objects-normal/arm64/Keyboard-master.dia",
+    "emit-module-dependencies" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Index.noindex/Build/Intermediates.noindex/Keyboard.build/Debug-iphoneos/Keyboard.build/Objects-normal/arm64/Keyboard-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Index.noindex/Build/Intermediates.noindex/Keyboard.build/Debug-iphoneos/Keyboard.build/Objects-normal/arm64/Keyboard-master-emit-module.dia",
+    "swift-dependencies" : "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Index.noindex/Build/Intermediates.noindex/Keyboard.build/Debug-iphoneos/Keyboard.build/Objects-normal/arm64/Keyboard-master.swiftdeps"
+  },
+  "/Users/macos/Desktop/Keyboard/DerivedData/Keyboard/Index.noindex/Build/Intermediates.noindex/Keyboard.build/Debug-iphoneos/Keyboard.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/macos/Desktop/Keyboard/Keyboard/ContentView.swift" : {
+
+  },
+  "/Users/macos/Desktop/Keyboard/Keyboard/KeyboardApp.swift" : {
+
+  }
+}
